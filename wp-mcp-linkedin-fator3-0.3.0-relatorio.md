@@ -2,7 +2,7 @@
 
 Data: 17/10/2026. Rodada: implementação. Base 0.2.0 → alvo 0.3.0 (incremento minor). Estado: apta no escopo do Pedido 1; homologação externa não executada nesta rodada.
 
-**Cópia interna anterior ao fechamento do fonte.** Tamanho e hash do próprio fonte ainda não são conhecidos; constam apenas no relatório externo final.
+**Relatório externo definitivo, emitido após o fechamento do fonte.** A cópia interna permanece identificada como anterior ao fechamento.
 
 ## 1. Bases aceitas
 
@@ -83,7 +83,7 @@ Entradas humanas de configuração, consulta e ajuda exigem manage_options valid
 | Artefato | Bytes | SHA-256 |
 |---|---:|---|
 | `wp-mcp-linkedin-fator3-0.3.0-instalador.zip` | 79465 | `b6d20998379236baf46ac5ae0181646e8a15fb75bbb4f37a88a68be01d2d768a` |
-| `wp-mcp-linkedin-fator3-0.3.0-fonte.zip` | A definir no relatório externo | `A definir no relatório externo` |
+| `wp-mcp-linkedin-fator3-0.3.0-fonte.zip` | 228685 | `a7e104ec20bd238e9227546acd888895562a95c452394dd633e52e1e3ae54d18` |
 
 Relatório externo: `wp-mcp-linkedin-fator3-0.3.0-relatorio.md`. Não há impacto individual novo nesta rodada.
 
