@@ -1,6 +1,0 @@
-# base-site-core-fator3-1.89.0-fonte.zip em duas partes (limite de 100 MB por arquivo no GitHub)
-# Juntar: cat base-site-core-fator3-1.89.0-fonte.zip.parte0 base-site-core-fator3-1.89.0-fonte.zip.parte1 > base-site-core-fator3-1.89.0-fonte.zip
-# Conferir: sha256sum -c base-site-core-fator3-1.89.0-fonte.zip.sha256
-522a6546b4b629478b3e2043168dd6bfe7bf1a4d99a1e5ec06a83d992beb7384  base-site-core-fator3-1.89.0-fonte.zip
-707ef6efda48cf94eeca622e1b5e338811f42dc5aeefb1cece018613ffdcc5b0  base-site-core-fator3-1.89.0-fonte.zip.parte0
-6f26b1528f4430ff75d0ac798ea7bb4161c1a97439dd5f22d1fd18ee6b9796a0  base-site-core-fator3-1.89.0-fonte.zip.parte1
